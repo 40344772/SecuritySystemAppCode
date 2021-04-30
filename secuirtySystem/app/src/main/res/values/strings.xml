@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">secuirtySystem</string>
+    <string name="arm_system">Arm System</string>
+    <string name="change_passcode">Change Passcode</string>
+    <string name="enter_new_passcode">Enter New Passcode</string>
+    <string name="confirm">Confirm</string>
+    <string name="passcode">Passcode</string>
+</resources>
